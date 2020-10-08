@@ -1,6 +1,6 @@
 from array import array
 
-# funcion that adds one to a number that is contained in an array
+# function that adds one to a number that is contained in an array
 # and returns another array with the number + 1
 def add_one(given_array):
     carry = 1
